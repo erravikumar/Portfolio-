@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
   <br />
     <a href="" target="_blank">
       <img src="https://github.com/erravikumar/project_3D_developer_portfolio/assets/151519281/4722160a-8e61-403f-a905-728feae1f7e6" alt="Project Banner">
@@ -749,4 +749,4 @@ module.exports = {
 
 ## <a name="links">🔗 Links</a>
 
-Models and Assets used in the project can be found [here]() -->
+Models and Assets used in the project can be found [here]()
